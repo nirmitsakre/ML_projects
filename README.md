@@ -1,5 +1,6 @@
 # Sentiment Analysis ML
-We classify restaurant reviews using Naive Bayes Classification.
+We classify restaurant reviews into "Positive" or "Negative" using Naive Bayes Classification.
 
-The .tsv contains historical data and second .tsv file contains new data we want to classify.
+The first .tsv contains pre-classified reviews which are used to train and test our model. 
+The second .tsv file contains new reviews which we want to classify into "Positive" or "Negative".
 
