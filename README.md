@@ -1,2 +1,2 @@
-# ML_projects
-Here are some test projects
+# Sentiment Analysis ML
+ML used for sentiment analysis
